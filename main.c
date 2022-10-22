@@ -47,7 +47,6 @@ int main( int argc, char *argv[] )
     else 
       greet( argv[1] ); /* for 1st argument */
   }
-  if( argc == 3)    
 }
 
 /* ====================== */
